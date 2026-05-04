@@ -36,7 +36,7 @@ Investigador - Relacionado con Documental (asociación)
 
 Nuevas Subclases
 
-Se añadieron nuevas subclases que heredan de `ContenidoAudiovisual`:
+Se añadieron nuevas subclases que heredan de "ContenidoAudiovisual":
 
 Podcast
 Audiolibro
@@ -87,7 +87,7 @@ Eclipse IDE
 
 1. Clonar el repositorio:
 
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/dantenoob7/TU_REPOSITORIO.git
 
 2. Abrir el proyecto en Eclipse
 
