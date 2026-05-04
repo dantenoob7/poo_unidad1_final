@@ -87,7 +87,7 @@ Eclipse IDE
 
 1. Clonar el repositorio:
 
-git clone https://github.com/dantenoob7/TU_REPOSITORIO.git
+git clone https://github.com/dantenoob7/poo_unidad1_final.git
 
 2. Abrir el proyecto en Eclipse
 
